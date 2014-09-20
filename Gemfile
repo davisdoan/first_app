@@ -7,7 +7,7 @@ gem 'rails', '4.0.8'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 group :development do
-  gem 'sqlite3', '1.3.8'
+  gem 'sqlite3'
 end
 
 # Gems used only for assets and not required
